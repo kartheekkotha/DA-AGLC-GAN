@@ -1,4 +1,6 @@
 # Continual Learning-Based Unified Model for Unpaired Image Restoration Tasks
+[![DOI](https://zenodo.org/badge/1078194473.svg)](https://doi.org/10.5281/zenodo.17403536)
+
 This page contains the code related to the paper: [Continual Learning-Based Unified Model for Unpaired Image Restoration Tasks]
 
 ## Abstract
